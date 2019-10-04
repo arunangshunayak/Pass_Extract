@@ -21,6 +21,7 @@ extension:json api.forecast.io
 extension:json mongolab.com
 extension:yaml mongolab.com
 jsforce extension:js conn.login
+aws_access_key_id : AKIAYSRXXXXQVCMCCZWW
 SF_USERNAME salesforce
 filename:.tugboat NOT _tugboat
 HEROKU_API_KEY language:shell
